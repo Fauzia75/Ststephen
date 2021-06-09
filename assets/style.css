@@ -112,4 +112,37 @@ footer ul.quick-link {
     width: 40px;
     margin: 10px 0px;
 }
+.Values i{
+    width: 100px;
+    height: 100px;
+    color: blue;
+    border: 2px solid blue;
+    padding: 20px;
+    border-radius: 40px;
+    transition: 0.2s linear;
+    font-size: 32px;
+}
+.Values i:hover{
+    border-radius: 50px;
+}
+.membersection{
+    background-color: blue;
+    color: white;
+    padding: 100px;
+}
+.membersection h2{font-weight: bold;
+    font-size: 20px;
+    text-align: center;
 
+ }
+ .membersection .border{
+    background: white;
+    height: 7px!important;
+    width: 50px;
+    margin: 10px 2px;
+ }
+ .membersection p{
+     font-weight: 700;
+     font-size: 24px;
+     text-align: center;
+ }
