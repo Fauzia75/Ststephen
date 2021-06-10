@@ -146,3 +146,10 @@ footer ul.quick-link {
      font-size: 24px;
      text-align: center;
  }
+ .staffsection img{
+     border-radius: 50%;
+     transition: 0.7s linear;
+ }
+ .staffsection img :hover{
+     box-shadow: 0 10px 0px black;
+ }
